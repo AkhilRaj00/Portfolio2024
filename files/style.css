@@ -163,7 +163,7 @@ body {
 .img {
     display: inline-block;
     left: 55%;
-    bottom: 5%;
+    bottom: -3%;
     margin-right: 5%;
     padding: 0;
     background-repeat: no-repeat;
